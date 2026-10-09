@@ -9,11 +9,11 @@ X-WR-CALDESC:Dog\, cat and all-pet holidays from PetCalendar.com\, each wit
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:20270101-national-train-your-dog-month@petcalendar.com
+UID:20270101-international-train-your-dog-month@petcalendar.com
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-SUMMARY:National Train Your Dog Month (all month)
+SUMMARY:International Train Your Dog Month (all month)
 DESCRIPTION:New year\, new tricks! Practice sit\, stay\, and that adorable 
  paw shake with plenty of treats.\n\nPost idea for shelters and rescues: Po
  st a report card of the cues each adoptable dog has learned this month\, l
