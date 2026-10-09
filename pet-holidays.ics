@@ -1,0 +1,873 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PetCalendar.com//Pet Holidays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pet Holidays (PetCalendar.com)
+X-WR-CALDESC:Dog\, cat and all-pet holidays from PetCalendar.com\, each wit
+ h a post idea for shelters and rescues.
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:20270101-national-train-your-dog-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:National Train Your Dog Month (all month)
+DESCRIPTION:New year\, new tricks! Practice sit\, stay\, and that adorable 
+ paw shake with plenty of treats.\n\nPost idea for shelters and rescues: Po
+ st a report card of the cues each adoptable dog has learned this month\, l
+ ike sit\, down or paw\, so adopters can see the progress they'd bring home
+ .\n\nAll 2027 pet holidays and a free printable: https://petcalendar.com/p
+ ages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270102-national-pet-travel-safety-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:National Pet Travel Safety Day
+DESCRIPTION:Buckle up\, buddy! Secure carriers and harnesses keep every roa
+ d trip safe and tail-waggingly fun.\n\nPost idea for shelters and rescues:
+  Share a photo of an alumni pet buckled into a car harness or tucked in a 
+ carrier\, and ask followers to show how their pets ride along safely.\n\nA
+ ll 2027 pet holidays and a free printable: https://petcalendar.com/pages/p
+ et-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114-dress-up-your-pet-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Dress Up Your Pet Day
+DESCRIPTION:Bow ties\, bandanas\, tiny hats: strike a pose\, but only if yo
+ ur pet is loving it.\n\nPost idea for shelters and rescues: Do a gentle co
+ stume shoot with a willing adoptable pet in a bandana or bow tie\, and inv
+ ite alumni families to share their best-dressed photos.\n\nAll 2027 pet ho
+ lidays and a free printable: https://petcalendar.com/pages/pet-holidays-20
+ 27
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-answer-your-cats-questions-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Answer Your Cat's Questions Day
+DESCRIPTION:Why is the bowl half empty? Who moved the box? Your cat has que
+ stions. Listen closely.\n\nPost idea for shelters and rescues: Let an adop
+ table cat take over your feed for a Q and A\, answering what they want in 
+ a home in their own slightly bossy words.\n\nAll 2027 pet holidays and a f
+ ree printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270124-change-a-pets-life-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Change a Pet's Life Day
+DESCRIPTION:Adopt\, foster\, donate\, or volunteer. One small act can turn 
+ a shelter pet's whole world around.\n\nPost idea for shelters and rescues:
+  Post four ways to help today (adopt\, foster\, donate\, volunteer) with a
+  link for each\, and pin it to the top of your page.\n\nAll 2027 pet holid
+ ays and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270201-national-pet-dental-health-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:National Pet Dental Health Month (all month)
+DESCRIPTION:Say cheese! Book a dental checkup and keep those pearly whites 
+ ready for happy grins.\n\nPost idea for shelters and rescues: Run a best-s
+ mile photo series of adoptable pets this month\, each post with a friendly
+  reminder to ask the vet about dental checkups.\n\nAll 2027 pet holidays a
+ nd a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220-love-your-pet-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Love Your Pet Day
+DESCRIPTION:Extra belly rubs\, bonus treats\, and a long cuddle session. To
+ day is all about them.\n\nPost idea for shelters and rescues: Ask adopters
+  to send a photo of their alumni pet doing their favorite thing\, and repo
+ st a few so supporters can see where the love ends up.\n\nAll 2027 pet hol
+ idays and a free printable: https://petcalendar.com/pages/pet-holidays-202
+ 7
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270222-national-walking-the-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:National Walking the Dog Day
+DESCRIPTION:Grab the leash and bundle up! Every sniff along the route is a 
+ story worth reading.\n\nPost idea for shelters and rescues: Share one loos
+ e-leash walking tip with a short clip of a volunteer practicing it with an
+  adoptable dog.\n\nAll 2027 pet holidays and a free printable: https://pet
+ calendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270223-world-spay-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:World Spay Day
+DESCRIPTION:A spay or neuter appointment today means fewer homeless litters
+  tomorrow. Big love\, small step.\n\nPost idea for shelters and rescues: S
+ hare a friendly explainer on how spay and neuter means fewer litters arriv
+ ing at your doors\, and list local resources if you know of any.\n\nAll 20
+ 27 pet holidays and a free printable: https://petcalendar.com/pages/pet-ho
+ lidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270223-national-dog-biscuit-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:National Dog Biscuit Day
+DESCRIPTION:Crunch time! Celebrate good boys and girls with a favorite bisc
+ uit\, or bake a homemade batch.\n\nPost idea for shelters and rescues: Pos
+ t your donation wish list with your dogs' favorite biscuits at the top\, p
+ lus a photo of a shelter pup politely waiting for a treat.\n\nAll 2027 pet
+  holidays and a free printable: https://petcalendar.com/pages/pet-holidays
+ -2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270301-pet-poison-prevention-awareness-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Pet Poison Prevention Awareness Month (all month)
+DESCRIPTION:Lilies\, grapes\, and xylitol are off the menu. Pet-proof the p
+ antry and keep the poison hotline handy.\n\nPost idea for shelters and res
+ cues: Share a carousel of household items that are toxic to pets\, like li
+ lies\, grapes and xylitol\, and include a pet poison hotline number.\n\nAl
+ l 2027 pet holidays and a free printable: https://petcalendar.com/pages/pe
+ t-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270307-professional-pet-sitters-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270314
+SUMMARY:Professional Pet Sitters Week
+DESCRIPTION:Three cheers for the sitters who handle walks\, meals\, and cud
+ dles while we are away.\n\nPost idea for shelters and rescues: Thank the p
+ et sitters who help your adopters\, and invite local sitters to share thei
+ r best tips for helping a newly adopted pet settle in.\n\nAll 2027 pet hol
+ idays and a free printable: https://petcalendar.com/pages/pet-holidays-202
+ 7
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270313-k9-veterans-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:K9 Veterans Day
+DESCRIPTION:Saluting the brave military working dogs who served by our side
+ . Good dogs\, every single one.\n\nPost idea for shelters and rescues: Pos
+ t a respectful thank-you to military working dogs\, and if any of your alu
+ mni are retired working dogs\, share their story with their family's OK.\n
+ \nAll 2027 pet holidays and a free printable: https://petcalendar.com/page
+ s/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270323-national-puppy-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:National Puppy Day
+DESCRIPTION:Puppy breath\, floppy ears\, and zoomies galore. Celebrate the 
+ little ones and the puppy in every dog.\n\nPost idea for shelters and resc
+ ues: Post a puppy roll call of everyone under a year old who is available\
+ , plus a gentle reminder that grown-up dogs make great family members too.
+ \n\nAll 2027 pet holidays and a free printable: https://petcalendar.com/pa
+ ges/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270401-prevention-of-cruelty-to-animals-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Prevention of Cruelty to Animals Month (all month)
+DESCRIPTION:Be a voice for animals who cannot speak up. Kindness is always 
+ in season.\n\nPost idea for shelters and rescues: Share how followers can 
+ spot and report suspected cruelty in your area\, with the right local numb
+ er\, and thank the officers and volunteers who help.\n\nAll 2027 pet holid
+ ays and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270401-national-heartworm-awareness-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:National Heartworm Awareness Month (all month)
+DESCRIPTION:Mosquito season is coming. Ask your vet about heartworm testing
+  and year-round prevention.\n\nPost idea for shelters and rescues: Post a 
+ quick reminder to ask the vet about heartworm prevention for dogs and cats
+ \, paired with a sunny photo of an adoptable pet ready for spring.\n\nAll 
+ 2027 pet holidays and a free printable: https://petcalendar.com/pages/pet-
+ holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270411-national-pet-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:National Pet Day
+DESCRIPTION:Every whisker\, wag\, and purr deserves a party. Celebrate the 
+ furry family members who make home\, home.\n\nPost idea for shelters and r
+ escues: Post a roundup of every kind of adoptable pet in your care\, from 
+ dogs and cats to rabbits and small critters\, each with a one-line persona
+ lity note.\n\nAll 2027 pet holidays and a free printable: https://petcalen
+ dar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270411-national-dog-bite-prevention-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270418
+SUMMARY:National Dog Bite Prevention Week
+DESCRIPTION:Ask before you pet\, and teach kids to read wagging tails and w
+ ary ears. Safety first\, friends.\n\nPost idea for shelters and rescues: S
+ hare a simple graphic on reading dog body language\, like a stiff tail or 
+ whale eye\, and remind families to teach kids to ask before petting.\n\nAl
+ l 2027 pet holidays and a free printable: https://petcalendar.com/pages/pe
+ t-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424-world-veterinary-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:World Veterinary Day
+DESCRIPTION:Thank your vet today! They fix our ouchies\, tolerate our wiggl
+ es\, and always have treats.\n\nPost idea for shelters and rescues: Post a
+  thank-you to your veterinary team or partner clinic with a behind-the-sce
+ nes photo\, and tag them so supporters can say thanks too.\n\nAll 2027 pet
+  holidays and a free printable: https://petcalendar.com/pages/pet-holidays
+ -2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-national-pet-parents-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:National Pet Parents Day
+DESCRIPTION:Fur moms and dog dads\, cat parents and bunny guardians: this o
+ ne is for you.\n\nPost idea for shelters and rescues: Ask adopters for a t
+ hen-and-now pair of photos\, adoption day and today\, and share your favor
+ ites as a thank-you to every pet parent.\n\nAll 2027 pet holidays and a fr
+ ee printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270428-international-guide-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:International Guide Dog Day
+DESCRIPTION:Honoring the clever\, steady guide dogs who help their people n
+ avigate the world with confidence.\n\nPost idea for shelters and rescues: 
+ Share a short note on guide dog etiquette\, like never petting or distract
+ ing a working dog\, and give a shout-out to guide dog programs near you.\n
+ \nAll 2027 pet holidays and a free printable: https://petcalendar.com/page
+ s/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270430-national-adopt-a-shelter-pet-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:National Adopt a Shelter Pet Day
+DESCRIPTION:Somebody at your local shelter is waiting for their forever per
+ son. Could it be you?\n\nPost idea for shelters and rescues: Feature your 
+ longest-stay residents with fresh photos and a fun fact each\, and if you 
+ are running an adoption special\, announce it today.\n\nAll 2027 pet holid
+ ays and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-national-pet-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:National Pet Month (all month)
+DESCRIPTION:A whole month to celebrate the pets who make every day brighter
+ \, fluffier\, and a little messier.\n\nPost idea for shelters and rescues:
+  Share one alumni pet a day all month\, and ask adopted families to send i
+ n photos and updates to keep the series going.\n\nAll 2027 pet holidays an
+ d a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-national-pet-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270509
+SUMMARY:National Pet Week
+DESCRIPTION:A week of wellness and wags. Book that checkup and celebrate yo
+ ur healthy\, happy pets.\n\nPost idea for shelters and rescues: Share a we
+ llness checklist for new adopters\, like booking a first vet visit and upd
+ ating ID tags\, with a photo of a freshly adopted pet heading home.\n\nAll
+  2027 pet holidays and a free printable: https://petcalendar.com/pages/pet
+ -holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-be-kind-to-animals-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270509
+SUMMARY:Be Kind to Animals Week
+DESCRIPTION:Gentle hands\, full water bowls\, and patient hearts. Kindness 
+ to every creature\, great and small.\n\nPost idea for shelters and rescues
+ : Post a kids' kindness challenge\, like making toys or cards for shelter 
+ pets\, and share what families create (with permission).\n\nAll 2027 pet h
+ olidays and a free printable: https://petcalendar.com/pages/pet-holidays-2
+ 027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270520-national-rescue-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:National Rescue Dog Day
+DESCRIPTION:Who rescued who? Celebrate the shelter pups who stole our heart
+ s and our side of the couch.\n\nPost idea for shelters and rescues: Ask al
+ umni families to answer the big question\, who rescued who\, and share the
+ ir replies alongside adoption-day and at-home photos.\n\nAll 2027 pet holi
+ days and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270601-adopt-a-shelter-cat-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Adopt a Shelter Cat Month (all month)
+DESCRIPTION:Kitten season is here! Shelters are full of purring sweethearts
+  ready for a sunny windowsill.\n\nPost idea for shelters and rescues: Spot
+ light a kitten and an adult cat each week this month\, and pair every post
+  with a call for foster homes to help through kitten season.\n\nAll 2027 p
+ et holidays and a free printable: https://petcalendar.com/pages/pet-holida
+ ys-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270601-national-pet-preparedness-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:National Pet Preparedness Month (all month)
+DESCRIPTION:Pack a pet go-bag with food\, meds\, and records so nobody gets
+  left behind in an emergency.\n\nPost idea for shelters and rescues: Share
+  a pet go-bag checklist (food\, meds\, records\, a recent photo\, leash or
+  carrier) and ask followers to post a picture of their packed bag.\n\nAll 
+ 2027 pet holidays and a free printable: https://petcalendar.com/pages/pet-
+ holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270604-hug-your-cat-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Hug Your Cat Day
+DESCRIPTION:Gentle squeezes for willing kitties only. A slow blink counts a
+ s a hug\, too.\n\nPost idea for shelters and rescues: Post a photo of a vo
+ lunteer with a cuddle-loving adoptable cat\, plus a reminder that a slow b
+ link is a cat's version of a hug.\n\nAll 2027 pet holidays and a free prin
+ table: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270621-take-your-pet-to-work-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:Take Your Pet To Work Week
+DESCRIPTION:Office pals with paws! A week of desk-side snoozes and the frie
+ ndliest coworkers you will ever meet.\n\nPost idea for shelters and rescue
+ s: Introduce your office cats or staff pets in a behind-the-scenes post\, 
+ and give followers a peek at the people who keep the shelter running.\n\nA
+ ll 2027 pet holidays and a free printable: https://petcalendar.com/pages/p
+ et-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270621-take-your-cat-to-work-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Take Your Cat To Work Day
+DESCRIPTION:Your cat is ready to supervise meetings\, sit on keyboards\, an
+ d nap in the outbox.\n\nPost idea for shelters and rescues: Give each adop
+ table cat a job title\, like Head of Box Inspection or Keyboard Supervisor
+ \, and link to their adoption profile.\n\nAll 2027 pet holidays and a free
+  printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270625-take-your-dog-to-work-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Take Your Dog To Work Day
+DESCRIPTION:Wagging tails in the break room! Bring your pup along if your w
+ orkplace says yes.\n\nPost idea for shelters and rescues: Ask dog-friendly
+  local businesses to share their office pups\, and feature an adoptable do
+ g who would make a great desk buddy.\n\nAll 2027 pet holidays and a free p
+ rintable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270701-national-lost-pet-prevention-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:National Lost Pet Prevention Month (all month)
+DESCRIPTION:Fireworks season can spook pets. Check ID tags\, update microch
+ ips\, and keep gates latched tight.\n\nPost idea for shelters and rescues:
+  Before fireworks season\, share a lost-pet plan: keep pets indoors\, chec
+ k ID tags\, and know who to call\, including your own lost and found line.
+ \n\nAll 2027 pet holidays and a free printable: https://petcalendar.com/pa
+ ges/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270710-national-kitten-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:National Kitten Day
+DESCRIPTION:Tiny toe beans and big curiosity. Celebrate kittens\, and consi
+ der fostering a litter this summer.\n\nPost idea for shelters and rescues:
+  Show off your current kittens in a short video\, and end with a clear cal
+ l for kitten fosters and how to apply.\n\nAll 2027 pet holidays and a free
+  printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270715-national-pet-fire-safety-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:National Pet Fire Safety Day
+DESCRIPTION:Plan an escape route that includes pets\, and add a window clin
+ g so rescuers know who's inside.\n\nPost idea for shelters and rescues: Sh
+ are a pet fire safety checklist\, like a pet alert window cling and an esc
+ ape plan that includes pets\, with a photo of an alumni pet at home.\n\nAl
+ l 2027 pet holidays and a free printable: https://petcalendar.com/pages/pe
+ t-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270731-national-mutt-day-summer@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:National Mutt Day (summer)
+DESCRIPTION:One of a kind and proud of it! Today we celebrate wonderfully m
+ ixed-up mutts everywhere.\n\nPost idea for shelters and rescues: Post a gu
+ ess-the-mix photo of an adoptable mutt\, then reveal the answer in the com
+ ments: one hundred percent good dog.\n\nAll 2027 pet holidays and a free p
+ rintable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270808-international-cat-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:International Cat Day
+DESCRIPTION:Cats officially rule the world today. Unofficially\, they rule 
+ it every day. Happy International Cat Day!\n\nPost idea for shelters and r
+ escues: Share a carousel of your adoptable cats with one quirky habit each
+ \, and invite alumni families to post their cats in the comments.\n\nAll 2
+ 027 pet holidays and a free printable: https://petcalendar.com/pages/pet-h
+ olidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270810-national-spoil-your-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:National Spoil Your Dog Day
+DESCRIPTION:New squeaky toy? Extra-long walk? Pup cup? Today the answer to 
+ every request is yes.\n\nPost idea for shelters and rescues: Post your dog
+ s' wish list of toys\, chews and treats with a link to give\, and share a 
+ video of a shelter dog unwrapping a donated toy.\n\nAll 2027 pet holidays 
+ and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270815-national-check-the-chip-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:National Check the Chip Day
+DESCRIPTION:A microchip only works if the info is current. Check your pet's
+  registry details today.\n\nPost idea for shelters and rescues: Remind fol
+ lowers to check their pet's microchip registration details\, and share how
+  adopters can find out which registry holds their chip.\n\nAll 2027 pet ho
+ lidays and a free printable: https://petcalendar.com/pages/pet-holidays-20
+ 27
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270817-black-cat-appreciation-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Black Cat Appreciation Day
+DESCRIPTION:Lucky us! Celebrate sleek\, glossy black cats and help them fin
+ d homes faster.\n\nPost idea for shelters and rescues: Share a myth-bustin
+ g post about black cats and bad luck\, starring an adoptable black cat who
+  is nothing but good fortune.\n\nAll 2027 pet holidays and a free printabl
+ e: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270821-international-homeless-animals-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:International Homeless Animals' Day
+DESCRIPTION:Light a candle\, donate\, or adopt. Every pet deserves a warm b
+ ed and a name.\n\nPost idea for shelters and rescues: Share an honest look
+  at how many animals are waiting with you right now\, and close with one c
+ lear ask\, whether that is fostering\, donating or sharing.\n\nAll 2027 pe
+ t holidays and a free printable: https://petcalendar.com/pages/pet-holiday
+ s-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270826-national-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:National Dog Day
+DESCRIPTION:Every dog deserves a day\, and this one is theirs. Extra treats
+ \, zero shame.\n\nPost idea for shelters and rescues: Post a dog-by-dog ro
+ ll call of everyone currently available\, and ask followers to tag a frien
+ d who has been talking about adopting.\n\nAll 2027 pet holidays and a free
+  printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270901-happy-cat-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Happy Cat Month (all month)
+DESCRIPTION:Purrs all month long! Book a vet visit\, add a new toy\, and ke
+ ep that kitty content.\n\nPost idea for shelters and rescues: Share enrich
+ ment ideas for indoor cats\, like puzzle feeders and window perches\, and 
+ show how your volunteers keep shelter cats busy and content.\n\nAll 2027 p
+ et holidays and a free printable: https://petcalendar.com/pages/pet-holida
+ ys-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270912-national-pet-memorial-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:National Pet Memorial Day
+DESCRIPTION:A gentle day to remember the pets who left paw prints on our he
+ arts forever.\n\nPost idea for shelters and rescues: Invite followers to s
+ hare a photo and a favorite memory of a pet they miss\, and keep the post 
+ gentle\, with no adoption or donation asks today.\n\nAll 2027 pet holidays
+  and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270928-world-rabies-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:World Rabies Day
+DESCRIPTION:Vaccines keep tails wagging. Make sure your pets are up to date
+  on their rabies shots.\n\nPost idea for shelters and rescues: Post a frie
+ ndly reminder to keep pets up to date on rabies vaccines\, and share where
+  people in your community can get their pets vaccinated.\n\nAll 2027 pet h
+ olidays and a free printable: https://petcalendar.com/pages/pet-holidays-2
+ 027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-adopt-a-shelter-dog-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Adopt a Shelter Dog Month (all month)
+DESCRIPTION:Wagging tails are waiting! Visit your local shelter and meet th
+ e pup who picks you.\n\nPost idea for shelters and rescues: Feature a diff
+ erent adoptable dog each week this month\, with a short video of them at p
+ lay and one sentence on their ideal home.\n\nAll 2027 pet holidays and a f
+ ree printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-national-black-dog-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:National Black Dog Day
+DESCRIPTION:Black dogs are often overlooked in shelters. Shine a spotlight 
+ on these gorgeous\, glossy goofballs.\n\nPost idea for shelters and rescue
+ s: Give your black dogs a portrait session with good light and a bright ba
+ ndana\, since dark coats are tricky to photograph and easy to scroll past.
+ \n\nAll 2027 pet holidays and a free printable: https://petcalendar.com/pa
+ ges/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-national-walk-your-dog-week@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271008
+SUMMARY:National Walk Your Dog Week
+DESCRIPTION:Crunchy leaves and crisp air: a week of walks keeps pups fit\, 
+ happy\, and well behaved.\n\nPost idea for shelters and rescues: Post a di
+ fferent adoptable dog on a fall walk each day this week\, and add a sign-u
+ p link for anyone who wants to join your volunteer walkers.\n\nAll 2027 pe
+ t holidays and a free printable: https://petcalendar.com/pages/pet-holiday
+ s-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271004-world-animal-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:World Animal Day
+DESCRIPTION:A global celebration of every creature\, from couch potatoes wi
+ th paws to wild ones.\n\nPost idea for shelters and rescues: Share a behin
+ d-the-scenes tour of a day at your shelter\, from breakfast rounds to even
+ ing tuck-ins\, so supporters can see who they are helping.\n\nAll 2027 pet
+  holidays and a free printable: https://petcalendar.com/pages/pet-holidays
+ -2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271016-global-cat-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Global Cat Day
+DESCRIPTION:Celebrate all cats\, including the community cats who call the 
+ neighborhood home.\n\nPost idea for shelters and rescues: Shine a light on
+  community cats with a post about trap-neuter-return\, and share how neigh
+ bors can help the cats on their own block.\n\nAll 2027 pet holidays and a 
+ free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271027-national-black-cat-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:National Black Cat Day
+DESCRIPTION:Spooky? Nope\, just sweet. Show black cats some love just in ti
+ me for Halloween.\n\nPost idea for shelters and rescues: Post a spooky-cut
+ e photo of an adoptable black cat\, with a reminder to keep all cats safel
+ y indoors on Halloween night.\n\nAll 2027 pet holidays and a free printabl
+ e: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271029-national-cat-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:National Cat Day
+DESCRIPTION:Rescue\, adopt\, or simply admire. Today is a purrfect excuse t
+ o celebrate your favorite feline.\n\nPost idea for shelters and rescues: P
+ ost a meet-the-cats thread with each adoptable cat's favorite nap spot\, a
+ nd ask followers to share it with a cat lover they know.\n\nAll 2027 pet h
+ olidays and a free printable: https://petcalendar.com/pages/pet-holidays-2
+ 027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271101-adopt-a-senior-pet-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Adopt a Senior Pet Month (all month)
+DESCRIPTION:Gray muzzles\, calm hearts\, and plenty of love left to give. S
+ enior pets make wonderful companions.\n\nPost idea for shelters and rescue
+ s: Introduce a senior pet each week with a gray-muzzle glamour shot and th
+ ree things they are great at\, like house manners and couch duty.\n\nAll 2
+ 027 pet holidays and a free printable: https://petcalendar.com/pages/pet-h
+ olidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271101-pet-cancer-awareness-month@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Pet Cancer Awareness Month (all month)
+DESCRIPTION:Learn the early signs\, keep up with checkups\, and give extra 
+ snuggles to pets in treatment.\n\nPost idea for shelters and rescues: Shar
+ e a gentle reminder that regular vet checkups help catch problems early\, 
+ and invite alumni families to share pets they are cheering on.\n\nAll 2027
+  pet holidays and a free printable: https://petcalendar.com/pages/pet-holi
+ days-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271101-national-cook-for-your-pets-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:National Cook for Your Pets Day
+DESCRIPTION:Chef mode on! Whip up a vet-approved homemade treat\, and skip 
+ the onions and garlic.\n\nPost idea for shelters and rescues: Share a simp
+ le pet-safe treat recipe your volunteers love\, with a reminder to skip on
+ ions\, garlic and grapes\, and photos of the taste testers.\n\nAll 2027 pe
+ t holidays and a free printable: https://petcalendar.com/pages/pet-holiday
+ s-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271107-national-canine-lymphoma-awareness-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:National Canine Lymphoma Awareness Day
+DESCRIPTION:Know the signs\, feel for lumps during belly rubs\, and keep up
+  those regular vet visits.\n\nPost idea for shelters and rescues: Post a s
+ hort reminder to feel for new lumps during belly rubs and mention anything
+  unusual to the vet\, with a photo of a happy alumni dog.\n\nAll 2027 pet 
+ holidays and a free printable: https://petcalendar.com/pages/pet-holidays-
+ 2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271202-national-mutt-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:National Mutt Day
+DESCRIPTION:Round two for mixed breeds! Celebrate the one-of-a-kind mutts w
+ arming laps this winter.\n\nPost idea for shelters and rescues: Ask alumni
+  families to share their mutt's DNA test results or wildest breed guesses\
+ , and post the most surprising mixes in a winter roundup.\n\nAll 2027 pet 
+ holidays and a free printable: https://petcalendar.com/pages/pet-holidays-
+ 2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271210-international-animal-rights-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:International Animal Rights Day
+DESCRIPTION:A day to stand up for animals everywhere\, because every creatu
+ re deserves kindness and care.\n\nPost idea for shelters and rescues: Shar
+ e your mission in a few plain sentences\, and thank the volunteers\, foste
+ rs and donors who speak up for animals all year.\n\nAll 2027 pet holidays 
+ and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271215-national-cat-herders-day@petcalendar.com
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:National Cat Herders Day
+DESCRIPTION:Ever tried to get two cats to do anything at once? This day hon
+ ors that heroic effort.\n\nPost idea for shelters and rescues: Post a bloo
+ per video of staff trying to get several cats to look at the camera at onc
+ e\, and caption it with your best cat herding tip.\n\nAll 2027 pet holiday
+ s and a free printable: https://petcalendar.com/pages/pet-holidays-2027
+URL:https://petcalendar.com/pages/pet-holidays-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
